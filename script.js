@@ -546,9 +546,9 @@ function setPos() {
 	var desiredLink = "https://lichess.org/training/" + gamedata[index].id
 			//d.innerHTML += desiredLink.link(desiredLink)
 	
-	document.getElementById("desc").innerHTML = describe(game.fen()) + turn + " to play <br />" + "Lichess Puzzle Link:" + desiredLink.link(desiredLink);
+	document.getElementById("desc").innerHTML = "Position description: <br />" + describe(game.fen()) + turn + " to play <br />" + "Lichess Puzzle Link:" + desiredLink.link(desiredLink);
 	board = ChessBoard('myboard', cfg);
-	
+	pgnEl.html(game.pgn());
 	
 	
 }
