@@ -1,0 +1,935 @@
+Here is a collection of 'puzzle rush' type puzzles, ie there's only one
+correct answer, a reasonable response and only one rebuttal. 
+
+Bill Harvey
+
+Rauf Mamedov vs Wojciech Moranda, Budva, 2003
+3R4/p1r2k2/1p3Pp1/5n1p/5N2/4q2P/1Q4PK/8 w - - 0 1
+Qa2+ Kxf6 Nd5+
+
+Rauf Mamedov vs Pierluigi Piscopo, Rogaska Slatina, 2011
+3q2k1/3b1pb1/3Nr1pp/4n3/3p1B2/r2P2P1/3Q1PBP/2R1R1K1 w - - 1 0
+Bxe5 Bxe5 Nc4
+
+Rauf Mamedov vs Dmitry Svetushkin, Moscow, 2013
+4r2k/2q2p1p/p4NpB/8/2p2b2/8/P1n3PP/2RR3K w - - 1 0
+Bg7+ Kxg7 Nxe8+
+
+Rauf Mamedov vs Hao Wang, Dubai, 2014
+5rk1/p4p1p/4p1pP/4P1q1/3P4/P3nQ2/2R3P1/5R1K w - - 1 0
+Qxf7+ Rxf7 Rc8+
+
+Rauf Mamedov vs Kivanc Haznedaroglu, Izmir, 2016
+6k1/r4pNp/3qnQp1/8/2B5/6PP/P4P2/6K1 w - - 1 0
+Nxe6 fxe6 Bxe6
+
+Rauf Mamedov vs Santosh Gujrathi Vidit, Hengshui, 2019
+6k1/3q1rpp/p3Q1b1/1pr5/3N4/1P5P/P3RPP1/3B2K1 w - - 1 0
+1.Qe8+ Qxe8 2.Rxe8+ Rf8 3.Rxf8+ Kxf8 4.Ne6+
+
+Alessio Valsecchi vs Sergio Huguet, Batumi, 2018
+r1q2r2/1pp3k1/3P2p1/p1p5/2P1P1b1/2P5/P4P1Q/R3K2R w KQ - 1 0
+Qh7+ Kf6 Qe7#
+
+Frode Urkedal vs Dante Beukes, Batumi, 2018
+5b2/1p3pk1/r3qNp1/3QP1P1/p7/PB6/1P3P2/1K6 w - - 1 0
+Qh1
+
+Khaled Mona vs Zuzana Kovacova, Batumi, 2018
+3q1rk1/5pp1/bprN3p/p2p4/P2P4/6Q1/1P3PPP/3RR1K1 w - - 1 0
+Nf5 Qf6 Ne7+
+
+Sabrina Latreche vs Abigaele Poudjoua Gamba, Batumi, 2018
+r1b1kb1r/ppppq1pp/2n2n2/4p1N1/2B1P3/8/PPP2PPP/RNBQK2R w KQkq - 1 0
+Bf7+ Kd8 Ne6+
+
+Alexander Fier vs Robert Aloma Vidal, Batumi, 2018
+2r2bk1/1q1n1pp1/2b1r3/1p4N1/2p1P3/1p1P2P1/PB3PK1/Q1R4R w - - 1 0
+Rh8+ Kxh8 Rh1+ Kg8 Rh8+ Kxh8 Qh1+ Rh6 Qxh6+ Kg8 Qh7#
+
+Hubert Ble Kouko vs Ragul Pillay, Batumi, 2018
+r4rk1/5ppp/p4n2/1p1q1QB1/3b4/N7/PP3PPP/1R3RK1 w - - 1 0
+Qxd5 Nxd5 Rfd1
+
+Kiril Georgiev vs Roberto Sanchez Alvarez, Batumi, 2018
+2kr4/1p1nqp2/p1p3p1/3p3n/3P4/2N1PN2/PP3PPQ/R3K3 w Q - 1 0
+Nxd5 cxd5 Rc1+
+
+Lionel Adu vs Jerome Harewood, Batumi, 2018
+2r2rk1/pp1b1p2/4p1pp/4Pq2/4R3/P5P1/QP3PBP/3R2K1 w - - 1 0
+g4 Qg5 Rxd7
+
+Ashvin Jotee vs Salem Alothman, Batumi, 2018
+2r1k3/np1nb2p/p3B1pB/4p3/N2pP3/P6P/1P3PP1/2R3K1 w - - 1 0
+Bxd7+ Kxd7 Nb6+
+
+Guliskhan Nakhbayeva vs Ellen Nilssen, Batumi, 2018
+3r4/1p3qkp/p1p1bpp1/2P5/1P3n1P/P1Q5/1B3PP1/4RBK1 w - - 1 0
+Qe3
+
+David Howell vs Sabino Brunello, Batumi, 2018
+8/pp2k1P1/3nbp2/2p5/5K2/2P5/PP1R4/8 w - - 1 0
+Re2
+
+Alex Winter-Roach vs Izdine Gafar, Batumi, 2018
+r1b1r1k1/1pq1b2p/p1np1p2/2p1pPN1/P3P3/3P3P/1PP3B1/R1BQ1RK1 w - - 1 0
+Qh5 fxg5 Qxe8+
+
+Amen Miladi vs Sheriffa Ali, Batumi, 2018
+r2q1b1k/ppp3p1/2n3QB/8/3Pn3/1B5P/PP3PP1/R5K1 w - - 1 0
+Bxg7+ Bxg7 Qh5+ Bh6 Qxh6#
+
+Isam Ortiz vs Miora Andriamasoandro, Batumi, 2018
+1r1q2k1/pp4np/2b2n2/P2p1N2/5P2/Q1BP2P1/1P4BP/6K1 w - - 1 0
+Nh6+ Kh8 Nf7+ Kg8 Nxd8
+
+Andreea-Marioara Cosman vs Tuvshintogs Batchimeg, Batumi, 2018
+2b3k1/p1q3pp/8/2p5/3bQr2/PR6/4P1BP/3R3K w - - 1 0
+Qe8+ Rf8 Bd5+
+
+Katrina Blackman vs Binta Sy Mame, Batumi, 2018
+2rr1k2/1p2qpp1/p3b2p/2pp4/4n2Q/2P1P1P1/PP1R1PPN/1B1R2K1 w - - 1 0
+Bxe4 dxe4 Rxd8+
+
+Lik Zang Lye vs Montasar Abo Moliana, Batumi, 2018
+4k3/2q2p1r/p2p1Q2/2pb4/P6N/3p2R1/1P2r1PP/5RK1 w - - 1 0
+Rg8+ Kd7 Qf5+ Kc6 Qxh7
+
+Valentina Golubenko vs Shamima Akter Liza, Batumi, 2018
+1k1r2r1/3n4/1PpNQ1pp/2q5/3pPP2/2p5/3B2PP/R5K1 w - - 1 0
+Ra8+ Kxa8 Qa2+ Kb8 Qa7#
+
+Anahi Ortiz vs Monika Tsiganova, Batumi, 2018
+1rr3k1/1bb3pp/1p3q2/pQ3p2/P2P4/2R3P1/5PBP/4R1K1 w - - 1 0
+Bxb7 Rxb7 Qd5+ Kh8 Qxb7
+
+Lidet Abate Haile vs Ahlam Makhlouf, Batumi, 2018
+r3k2r/1ppq1p2/p1np3p/4p3/3bP1b1/P1NPB3/1PP1BPP1/R3QRK1 w kq - 1 0
+Nd5 0-0-0 Nf6
+
+Motahare Asadi vs Flor De Maria Zarate Oyague, Batumi, 2018
+r3r2k/5Qb1/2q1P2p/pp6/3p1PP1/P1B5/1PP5/2K4R w - - 1 0
+Rxh6+ Bxh6 Bxd4+
+
+4rbk1/pp1n1pp1/4q2p/1P6/P2Pr3/2Q2N2/5PPP/R3R1K1 w - - 1 0
+Khanim Balajayeva vs Mariam Choladze, Batumi, 2016
+Rxe4 Qxe4 Re1
+
+r3r1k1/1ppq1ppp/p2b4/3Np3/4P3/2R1Q2P/PPP2PP1/R5K1 w - - 1 0
+Khanim Balajayeva vs Defne Sade, Ankara, 2018
+Nf6+ gxf6 Qh6 Kh8 Rg3 Rg8 Qxf6+
+
+5rk1/1pp3p1/p2pprq1/4p1N1/4Pn1Q/2PPR1P1/PP3P2/5RK1 b - - 0 1
+Catarina Leite vs Khanim Balajayeva, Vysoke Tatry, 2018
+...Qxg5 Qxg5 Nh3+
+
+k2rr3/P5pp/8/3q4/3p1b2/5Q2/1PR2PPP/R5K1 w - - 1 0
+Polina Shuvalova vs Alexandra Obolentseva, Budva, 2013
+Rc8+ Rxc8 Qxd5+
+
+8/p1p2p2/1pb3pK/2pNk2p/4Pn1P/1PP1NP2/P5P1/8 w - - 1 0
+Polina Shuvalova vs Jane Mukhina, Sochi, 2018
+Nc4+ Ke6 Nxf4+
+
+2r3rk/1b1n1p1p/pp1p1P1Q/3qp1P1/P7/3PBR2/1P4PP/5RK1 w - - 1 0
+Gulruhbegim Tokhirjonova vs Eugenio Torre, Ho Chi Minh City, 2017
+Qxh7+ Kxh7 Rh3+ Kg6 Rh6#
+
+5r2/2r2pkp/4pbp1/5q2/1Q6/1Bn1B3/P2R1PPP/4R1K1 w - - 1 0
+Pavel Smirnov vs Alexander Kochyev, St. Petersburg, 2002
+Bh6+ Kxh6 Qxf8+
+
+r5qr/pp1nkpQ1/2p1p3/3pPp1p/3P3N/1P6/P1P2PPP/R4RK1 w - - 1 0
+Pavel Smirnov vs Valay Parikh, Chennai, 2004
+Ng6+ Ke8 Qxh8
+
+8/1pb1n2k/p1p2p1P/2P1pq2/1P1p2rR/3P1N2/1P1BQP2/7K w - - 1 0
+Gulruhbegim Tokhirjonova vs Anna Zatonskih, Riyadh, 2017
+Rxg4 Qxg4 Ng5+ Qxg5 Bxg5
+
+2br3k/2p3pp/ppP5/2n4q/4BP2/2N1P2P/P1R3P1/2Q4K b - - 0 1
+Pierina Rosales vs Gulruhbegim Tokhirjonova, Maribor, 2012
+...Nxe4 Nxe4 Rd1+
+
+4rr1k/6pp/3p1p2/p2q1P2/1ppB2QN/1P5P/P1P3P1/5RK1 w - - 1 0
+Stavroula Tsolakidou vs Bakhora Abdusattorova, Durban, 2014
+Ng6+ hxg6 Qh4+ Kg8 fxg6
+
+2r3k1/5p1p/pB2pnp1/2P5/1b2bP2/1N3B2/P5PP/2R3K1 w - - 1 0
+Stavroula Tsolakidou vs Paulo Pinho, Gibraltar, 2017
+Bxe4 Nxe4 Rc4
+
+r2qnrk1/3n1ppp/p2ppb2/1pp2P2/4P3/2NP1RQ1/PPP3PP/R1B1N1K1 b - - 0 1
+Ourania Koutsotoli vs Stavroula Tsolakidou, Eretria, 2011
+...Bh4 Qh3 Bxe1
+
+4r1k1/5rp1/3p3p/1R1P4/8/1PqRpPP1/4Q1KP/8 b - - 0 1
+Tatiana Melamed vs Stavroula Tsolakidou, Warsaw, 2013
+...Qxd3 Qxd3 e2
+
+2krq2r/pp6/3p1n1p/P1p3p1/b1P2P2/1NP3P1/2Q1BPP1/2KR3R b - - 0 1
+Ekaterina Nasyrova vs Stavroula Tsolakidou, Moscow, 2016
+...Bxb3 Qxb3 Qxe2
+
+b2r2k1/p4ppp/2q1p3/2b1N3/2P1n3/8/P1B1QPPP/B4RK1 b - - 0 1
+William Fairhurst vs Samuel Reshevsky, Margate, 1935
+...Ng3 Nxc6 Nxe2+ Kh1 Bxc6
+
+5rk1/1Qp3p1/3p3p/p3p3/P6P/3P3q/1PP2PR1/2K5 b - - 0 1
+Karl Robatsch vs Samuel Reshevsky, Maribor, 1967
+...Qh1+ Kd2 Rxf2+
+
+6k1/p5p1/2p2qN1/7p/1K2Q1P1/PR5P/2P2r2/5r2 w - - 1 0
+Valeriane Gaprindashvili vs Laurent Fressinet, Sao Lourenco, 1995
+Qe8+ Kh7 Qh8+ Kxg6 Qxh5#
+
+
+8/1p3kP1/4r3/p7/P7/1Pr1B3/5PK1/3R4 w - - 1 0
+Valeriane Gaprindashvili vs Sergei Mihajlovskij, Izmir, 2006
+Rd7+ Kg8 Rd8+ Kxg7 Bd4+
+
+3r4/4qpk1/3r3p/b1Q1pBp1/4P3/P3PKP1/1P5P/2B2R2 b - - 0 1
+Davit Shengelia vs Valeriane Gaprindashvili, Tbilisi, 1999
+...g4+ Kg2 Rd2+
+
+6k1/5p2/2p2Q1p/8/PP3pP1/5r2/5qPK/3R4 b - - 0 1
+Jan Rosenberg vs Jerry Hanken, USA, 1987
+...Rh3+ Kxh3 Qg3#
+
+5b2/2r1q1k1/p2pQ1p1/P1pPp2p/4P3/2P1NR1P/6PK/8 w - - 1 0
+Jay Bonin vs Lev Alburt, New York, 1986
+Nf5+ gxf5 Rg3+
+
+r2q1rk1/pb3pp1/np1ppb1p/8/1PP5/P4NP1/3NPPBP/1QRR2K1 w - - 1 0
+Jay Bonin vs Leonard Chipkin, Long Island, 1994
+Ng5 Bxg5 Bxb7 Nc7 Bxa8
+
+2bQ1qk1/pp3p1p/4r3/3N4/8/5BP1/PP1b3P/R6K w - - 1 0
+Jay Bonin vs Angelo Young, New York, 2000
+Nf6+ Kg7 Nh5+ Kg8 Qxd2
+
+r1b2rk1/pp2qpbp/5np1/2n1p3/2P1P3/B1N2N2/P3BPPP/1R1Q1RK1 w - - 1 0
+Jay Bonin vs Dennis Moore, Parsippany, 2007
+Nd5 Nxd5 Qxd5 Rd8 Qxc5
+
+2N2rk1/5p1p/3pp1p1/1P4P1/3nbP2/7P/PP2B3/K4RR1 b - - 0 1
+Boris Privman vs Jay Bonin, Philadelphia, 2002
+...Nb3+ axb3 Rxc8 b6 Ra8+ Ba6 Rxa6#
+
+4rr2/1p2Rpkp/p2qb1p1/3p4/1P1P4/P3QN1P/5PP1/4R1K1 w - - 1 0
+Jeroen Piket vs Vinny Puri, Baguio, 1987
+Qxe6 Qxe6 R1xe6
+
+2r1r2k/ppn3bp/1q3p2/5p1N/2Q5/8/PP3PPP/2R1R1K1 w - - 1 0
+Jeroen Piket vs Tibor Karolyi, Brussels, 1987
+Rxe8+ Rxe8 Qf7 Rg8 Rxc7
+
+3q4/8/r2p4/5k2/1p1Q4/1P3B2/P5pK/8 w - - 1 0
+Jeroen Piket vs Friso Nijboer, Eindhoven, 1991
+Qg4+ Ke5 Qe4+ Kf6 Qh4+
+
+1r3rk1/p3Rp1p/q5p1/2pP4/2P5/5pQ1/PB4bP/4R1K1 w - - 1 0
+Jeroen Piket vs Gerald Hertneck, Tilburg, 1993
+Qxb8 Rxb8 Re8+ Rxe8 Rxe8#
+
+1k6/1pb5/5q2/8/3Q3P/4r1P1/1R2N3/6K1 b - - 0 1
+Martin Martens vs Jeroen Piket, Amsterdam, 1988
+...Rxg3+ Nxg3 Qxd4+
+
+3r2k1/1P2ppb1/2B3pp/3r1q2/R3pB2/8/2PQ1PPP/2R3K1 b - - 0 1
+Gererald Hertneck vs Jeroen Piket, Tilburg, 1993
+...Qxf4 Qxf4 Rd1+
+
+2r3k1/pb2qpb1/4p1p1/1p2P2p/1n1P1N1P/1B4Q1/P2B1PP1/2R3K1 w - - 1 0
+Svetozar Gligoric vs Vladimir Tukmakov, Odessa, 1975
+Rxc8+ Bxc8 Qc3 Bb7 Qxb4
+
+6k1/p4r1p/1p4pB/3qp2P/8/6Q1/2b2PP1/2R3K1 w - - 1 0
+Svetozar Gligoric vs Gyula Sax, Vrbas, 1977
+Qc3 Bf5 Qc8+
+
+4r3/p1q3kp/1pb3p1/3pr3/5Q2/3R3P/PP3PP1/3BR1K1 w - - 1 0
+Svetozar Gligoric vs Georgi Tringov, Scara, 1980
+Rde3 R5e7 Qxc7
+
+5rk1/p1p2ppp/8/2b5/2Pq4/5QPb/PP5P/R1BR3K b - - 0 1
+Norman MacLeod vs Jackson Showalter, New York, 1889
+...Bg4
+
+5r1k/p5pp/8/N2p4/1Pq1pbQ1/P7/5PPP/5RK1 b - - 0 1
+Milko Popchev vs Sergey Dolmatov, Polanica Zdroj, 1987
+...Bxh2+ Kxh2 Qxf1
+
+8/p2r2pp/PpR5/6k1/2KNn1P1/4P3/7P/8 w - -1 0
+Erich Cohn vs Alfred Moewig, Barmen, 1905
+Nf3+ Kxg4 Ne5+ Kh3 Nxd7
+
+1r6/4k1b1/2ppb2p/2p1p1p1/2P1P3/1PN5/3B1PPP/1R3K2 b - - 0 1
+Janos Gajdos vs Erich Cohn, Barmen, 1905
+...Rxb3 Rxb3 Bxc4+ Ke1 Bxb3
+
+r2rb1k1/pp3pp1/4p1p1/1P2B3/2PnR2q/2Q3NP/P4PP1/R5K1 b - - 0 1
+Milan Vidmar Sr vs Erich Cohn, Carlsbad, 1911
+...Qxe4 Nxe4 Ne2+ Kh2 Nxc3
+
+2b5/p3p2k/2pn1b1p/4pqp1/2P1N1N1/1P1P3P/P2B2P1/4Q2K w - - 1 0
+Jesus De La Villa Garcia vs Xavier Rechi Montes, Andorra, 2000
+Ngxf6+ exf6 Nxd6
+
+2kr3r/ppp2ppp/2n5/4p3/4P3/Pq1B4/QP1K1PPP/R1BbN2R b - - 0 1
+Pedro Aparicio Navarro vs Jesus De La Villa Garcia, Zaragoza, 1993
+...Rxd3+ Nxd3 Qc2+ Ke3 Qe2#
+
+r1b1k2r/2p1qpp1/p1pp1n1p/b3p3/4P3/2PP1N1P/PP2NPP1/R1BQ1RK1 w kq - 1 0
+Jesus Baron Rodriguez vs S Radisic, Traben, 1993
+Qa4
+
+2q2r1k/1n3p1p/pp1rpPp1/2p5/2P2P2/3Q3R/PB4PP/3R2K1 w - - 1 0
+Jesus Baron Rodriguez vs Jose Naya Sancho, Zaragoza, 1999
+Rxh7+ Kxh7 Qh3+ Kg8 Qh6
+
+1r2r1k1/3b1ppp/pqpp1nn1/8/2QNP3/5P2/PPRNB1PP/5R1K b - - 0 1
+V Guerrero vs Jesus Baron Rodriguez, Spain, 1991
+...c5 N4b3 Bb5
+
+r1q1r1k1/pp3pp1/2p2n1p/3pPb2/3P4/2N1PQ2/PP3PBP/R4R1K b - - 0 1
+Juan Gil Reguera vs Jesus Baron Rodriguez, La Coruna, 1996
+...Bg4 Qg3 Nh5 Qh4 g5
+
+2rr2k1/4bppp/N3p3/1p1qN3/1PnP4/P2R4/4QPPP/3R2K1 b - - 0 1
+Pedro Mascaro March vs Jesus Baron Rodriguez, Ponferrada, 1997
+...Nxe5 Qxe5 Qxe5 dxe5 Rxd3
+
+4rrk1/ppq3pp/4b3/2pn1p1N/3p4/3P1B1P/PPP2PP1/1R1QR1K1 w - - 1 0
+Jesus Garrido Dominguez vs Matias Perez Candelario, Oropesa, 2000
+Rxe6 Rxe6 Bxd5
+
+r4r2/p1p1qpk1/4bnpp/2p3Q1/3pP3/3B2N1/PPP2PPP/2K1R2R w - - 1 0
+Jesus Garrido Dominguez vs Nicolas Natalicchio Escalante, San Agustin, 2012
+Nh5+
+
+6k1/p5Pp/2pq2bQ/3p4/3P4/6P1/Pr4BP/5RK1 b - - 0 1
+M A Justiniano vs Jesus Garrido Dominguez, Sevilla, 2002
+...Rxg2+ Kxg2 Be4+
+
+r1b1r1k1/p4pp1/2pRn1n1/4p1q1/RB2P3/1N4p1/1PPQ1P1P/5B1K w - - 1 0
+Jesus Iruzubieta Villaluenga vs Juan Alonso Arburu, Euskadi, 2008
+Rxe6 Qxd2 Rxe8+
+
+5rk1/2n2R2/8/1p4PQ/1bp1q3/8/2P1r2P/5RK1 w - - 1 0
+Jesus Iruzubieta Villaluenga vs Marcos Camacho Collados, Leiria, 2017
+Rxf8+ Bxf8 Qf7+ Kh8 Qxf8+ Kh7 Qh6+ Kg8 Rf8#
+
+r3r1k1/3p1pp1/2Pq3p/p7/Rp3PP1/1PbPBQ2/2P4P/5RK1 b - - 0 1
+Adrian Galiana Fernandez vs Jesus Iruzubieta Villaluenga, La Roda, 2017
+...Rxe3 Qxe3 Bd4
+
+2r3k1/p4p1p/1bn1p1p1/8/4P3/B4B2/P1R2PPP/6K1 w - - 1 0
+Jesus Nogueiras Santiago vs Dimitar Donchev, Varna, 1982
+e5 Ne7 Rxc8+ Nxc8 Bb7
+
+4Rnk1/p1p2pp1/1p1r3p/3b4/2PN4/3B4/P4PPP/6K1 w - - 1 0
+Jesus Nogueiras Santiago vs Carlos Bielicki, Buenos Aires, 2003
+Nf5 Re6 Ne7+
+
+rnb1kb2/ppp2p1p/4pn1Q/8/3qp1r1/2N5/PPPB1PPP/2KR1BNR w q - 1 0
+Vladislav Kovalev vs Anish Giri, Herceg Novi, 2005
+Qxf8+ Kxf8 Bh6+ Ke7 Rxd4
+
+6rk/6rp/pp2pQ2/3p4/P5R1/7P/2q3P1/5R1K w - - 1 0
+Vladislav Kovalev vs Andrei Volokitin, Dubai, 2014
+Qxg7+ Rxg7 Rf8+
+
+2r2rk1/pp4pp/1q6/2R5/1n1Q4/4pP2/P5PP/4RBK1 w - - 1 0
+Vladislav Kovalev vs Ritvars Reimanis, Wroclaw, 2014
+Qc4+ Kh8 Rxc8
+
+r5k1/1q3pb1/6pp/4B1n1/1pN1b3/6NP/1PP2QP1/5RK1 w - - 1 0
+Vladislav Kovalev vs Michael Bezold, Berlin, 2015
+Bxg7 Kxg7 h4 Ne6 Nd6
+
+4r1k1/1pq1pp1p/p2p1bp1/2rP4/P1PN4/1P3Q1P/4RPP1/4R1K1 w - - 1 0
+Vladislav Kovalev vs Hong Zhu, Philadelphia, 2015
+Qxf6 exf6 Rxe8+
+
+3Q4/2r2p2/1k4p1/4p2p/8/7P/1P3PPK/4r3 w - - 1 0
+Vladislav Kovalev vs Igor Malakhov, Minsk, 2015
+Qd6+ Rc6 Qb4+
+
+r4rk1/pb5p/1pnq2p1/2p5/3bPBB1/P2P1Q2/1P4PP/R2N1R1K b - - 0 1
+H Ettehadi vs Alireza Firouzja, Tabriz, 2017
+...Be5 g3 g5
+
+3rk2r/4bppp/pq2b3/1p2P3/2pnQ1B1/P1N3B1/1P3PPP/R4RK1 b k - 0 1
+Hrant Melkumyan vs Parham Maghsoodloo, St. Petersburg, 2018
+...Nb3 Rad1 Nd2
+
+r5k1/1q2rppp/ppQ5/3p4/3N4/3nP3/PP3PPP/2R2RK1 w - - 1 0
+Bogdan-Daniel Deac vs Lukasz Jarmula, Budapest, 2018
+Nf5 Rd7 Qc3
+
+r2b1r2/pp3pkp/6p1/3Pp3/4B3/3RP3/PP4PP/2R3K1 b - - 0 1
+George Stoleriu vs Bogdan-Daniel Deac, Olanesti, 2018
+...f5 Bf3 e4
+
+4k2r/p2n1pp1/4p3/2P5/3P1P2/2q1pQP1/P6P/1R3K1R b k - 0 1
+Adam Bohus vs Andrey Esipenko, Porec, 2015
+...Qd3+ Kg2 Qc2+ Kf1 Qxb1+
+
+2kr3r/pp3ppp/4p3/4P2N/2Pn1P2/b1qP3P/PB1R1QP1/K4B1R b - - 0 1
+Sergey Karjakin vs Andrey Esipenko, Riyadh, 2017
+...Bxb2+ Rxb2 Qc1+ Rb1 Nc2+
+
+r1q2rk1/1b3pp1/p4b1p/3pp3/P7/1NPBP1P1/3Q1P1P/RR4K1 b - - 0 1
+Hrant Melkumyan vs Andrey Esipenko, Riyadh, 2017
+...e4 Bf1 Bxc3
+
+2rrb3/pp3Bbk/5QNp/q7/3P4/8/PP4PP/2RR2K1 w - - 1 0
+M Amin Tabatabaei vs Chithambaram Aravindh, Moscow, 2018
+Nf8+ Kh8 Qg6
+
+r2q1n2/1p1b4/p2p1p1k/2pPrP1p/2P4Q/P5RP/1PB3P1/5RK1 w - - 1 0
+Jinshi Bai vs Murad Nuri, Kocaeli, 2013
+Qxh5+ Kxh5 Bd1+ Kh6 Rf4
+
+7k/pp4R1/2p4p/3n1N2/1n2N3/4r3/PP4PP/5K2 w - - 1 0
+Jinshi Bai vs V Lozhnikov, Kocaeli, 2013
+Ned6
+
+1k3r2/ppq5/2n1R3/2p3rp/8/2P3P1/PPQ2PP1/4R1K1 w - - 1 0
+Jinshi Bai vs Markus Watzlawek, Neustadt a.d. Weinstrasse, 2018
+Re8+ Rxe8 Rxe8+ Nd8 Qd2
+
+4rrk1/pb3qpp/1p1Rp3/2p1Q3/2P5/P1P2P2/2B3PP/3R2K1 w - - 1 0
+Jinshi Bai vs Nima Javanbakht, Hamedan, 2018
+Rd7 Re7 Qc7
+
+1r4k1/5ppp/2pR1n2/p4P2/P2N4/2n5/2B1rPPP/5RK1 b - - 0 1
+Antonios Pavlidis vs Jinshi Bai, Kocaeli, 2013
+...Rd2 Rxc6 Nfd5
+
+2rb2k1/1b3pp1/p2p3p/3Np3/QP2q3/2R5/5PPP/5RK1 w - - 1 0
+Jesus Diez Del Corral vs Napoleon Garces, Leipzig, 1960
+Rxc8 Bxc8 Qe8+
+
+rnb1kb1r/pp3ppp/3q4/3np3/3N4/2P5/PP3PPP/RNBQKB1R w KQkq - 1 0
+Jesus Diez Del Corral vs Antonio Tauler, Pamplona, 2001
+Nb5 Qd7 Qxd5 Qxd5 Nc7+
+
+r4rn1/pppq1pbk/2npb1pp/4p3/2P1PP2/2NPB1PP/PP2N1BK/R2Q1R2 w - - 1 0
+Jesus Nogueiras Santiago vs Luis Fonseca De Olivera, Internet, 2003
+f5 gxf5 exf5 Bxf5 Rxf5 Qxf5 Be4
+
+1r3rk1/p4ppp/b1N1p3/3p2P1/3PnP2/1Pq5/P2N2P1/R2QK2R w KQ - 1 0
+Jesus Nogueiras Santiago vs Goran Todorovic, Internet, 2005
+Ne7+ Kh8 Rxh7+ Kxh7 Qh5#
+
+4RQ2/5ppk/2p2q2/5n1p/p3N3/P5P1/1P1r1P1P/6K1 b - - 0 1
+Vlastimil Hort vs Jesus Nogueiras Santiago, Salonika, 1984
+...Rd1+ Kg2 Ne3+ Kh3 Qf5+
+
+3r2k1/p6p/4R3/2p5/N3n3/4p1P1/P3Rb1P/7K b - - 0 1
+Ioannis Papaioannou vs Jesus Nogueiras Santiago, Chalkidiki, 1992
+...Rd1+ Kg2 Rg1+ Kh3 Ng5+ Kh4 Nxe6
+
+4r2k/4qp1p/pr1b1p1B/2pB1Q2/8/2P5/P1P3PP/3R3K w - - 1 0
+Thomas Luther vs Zoltan Varga, Brno, 1991
+Be4 Qxe4 Qxf6+ Kg8 Qg7#
+
+3r1rk1/5pp1/p5q1/1pbPp2R/4Q1BP/2P5/PP6/1K3R2 w - - 1 0
+Thomas Luther vs Nikola Stajcic, Budapest, 1992
+Qxg6 fxg6 Be6+
+
+2r1kbR1/5p2/3p1P1p/qp6/4P3/1bN5/1PnQ4/1K1R4 w - - 1 0
+Thomas Luther vs Nasib Ginting, Liechtenstein, 1992
+Rxf8+ Kxf8 Qxd6+ Kg8 Qg3+ Kf8 Qg7+
+
+1r2kb1r/3n1pp1/p2pp2p/6B1/1pQ1BP2/1N2q1P1/PPPN3P/2K4R w k - 1 0
+Thomas Luther vs Olivier Touzane, Lippstadt, 1994
+Qxe6+ fxe6 Bg6#
+
+2rq1rk1/3n1pbp/3pbnp1/1p1Np1B1/1P2P3/2R3P1/P2QNPBP/R5K1 w - - 1 0
+Istvan Csom vs M Batres, Lugano, 1968
+Rxc8 Qxc8 Ne7+
+
+1r4k1/1Q1R1p2/4p1pp/1q6/1p6/1P3PP1/5PKP/8 w - - 1 0
+Istvan Csom vs Jan Plachetka, Berlin, 1979
+Rd8+
+
+1n1rr2k/p2q2bp/1pppb1p1/3N1p2/2PB1P2/1P1Q1BPP/P4P2/2RR2K1 w - - 1 0
+Istvan Csom vs Vaszilij Sikula, Hungary, 2003
+Nf6
+
+3r2k1/2q2ppp/p3p1b1/3rR3/1p1N1Q1P/1P4B1/1PPR2P1/2K5 b - - 0 1
+Andre Lombard vs Istvan Csom, Athens, 1969
+...Rxd4
+
+3r3k/p1Qq2p1/1p5p/4p3/3rNn2/2R1R2P/PP3PPK/8 b - - 0 1
+Tom O'Donnell vs Istvan Csom, Slofok, 1990
+...Qxc7 Rxc7 Nd5
+
+6k1/p2q1pp1/3rp2p/4n3/2p1P3/2P5/PPQ2NPP/1R4K1 b - - 0 1
+Alexander Hoenig vs Istvan Csom, Hungary, 1991
+...Rd2 Qc1 Rxf2 Kxf2 Nd3+
+
+r3k2r/ppqnn1bp/2p1p1p1/1P1pPp2/N2P1PP1/3B1Q1P/P1P2B2/1R2K2R b Kkq - 0 1
+Janis Klovans vs Istvan Csom, Saint Vincent, 2001
+...Qa5+
+
+2r3k1/rR1nbpp1/4p2p/2p1B3/2P5/4P1PP/P2R1PBK/8 b - - 0 1
+Ivan Farago vs Istvan Csom, Hungary, 2007
+...Rxb7 Bxb7 Nxe5 Bxc8 Nf3+
+
+1r1r1b1k/2qb2pp/3ppN2/p3n3/np1NPQ1P/4BP2/PPP5/1K1R1BR1 w - - 1 0
+Deepan Chakkravarthy vs Alexander Filipenko, Moscow, 2012
+Qh6 gxf6 Qxf6+
+
+3r1rk1/pp4b1/4pqpp/4N3/P4P2/1Q4P1/1P5P/3RR1K1 w - - 1 0
+Deepan Chakkravarthy vs Samuel Buet, Sevilla, 2017
+Nd7
+
+2rq1rk1/p4pbp/3p1np1/1b1N4/8/1P4PP/PBQ2PB1/3RR1K1 w - - 1 0
+Deepan Chakkravarthy vs Jorge Rincon Bascon, Sevilla, 2017
+Qxc8 Qxc8 Ne7+
+
+2rr3k/p1qb1ppp/3p1b2/4pP2/1p2P1P1/1N5R/PPPQN2P/1K1R4 b - - 0 1
+D Stativkin vs Deepan Chakkravarthy, Heraklio, 2002
+...Bg5 Qd3 Bb5 Qxb5 Qxc2+
+
+1r1r4/5k2/p1q1pbpp/2P2p2/pN3P2/2P1Q1P1/1P5P/R3R1K1 b - - 0 1
+H L M Hapuarachchi vs Deepan Chakkravarthy, New Delhi, 2009
+...Rxb4 cxb4 Bd4
+
+2b1k2B/5p2/p1pqp3/4nP1p/4P3/2N5/P1r1BQ1P/4K1R1 b - - 0 1
+K Priyadharshan vs Deepan Chakkravarthy, Chennai, 2010
+...Rc1+ Nd1 Rxd1+ Bxd1 Nd3+
+
+2r2qk1/1br2pb1/p3p2p/3P4/5p2/N1N2P2/PP1Q2PP/2RR2K1 b - - 0 1
+Marc Gruenhagen vs Deepan Chakkravarthy, Dieren, 2011
+...Bxc3 Rxc3 Rxc3 bxc3 Qxa3
+
+6k1/2rp2pp/p1b1p3/5r2/1P2Nn2/3BR3/PP3PPP/4R1K1 b - - 0 1
+S Yogit vs Deepan Chakkravarthy, Al-Ain, 2015
+...Nxd3 Rxd3 Bxe4
+
+5rk1/1p3pb1/2p2qpp/8/1P6/1NnPP1Pb/2QB2BP/R5K1 b - - 0 1
+Chatterjee Koustav vs Deepan Chakkravarthy, New Delhi, 2018
+...Ne2+ Kh1 Qf2 Bxh3 Bxa1
+
+1r1r2k1/5pp1/p2q3p/1pRb4/1P6/5N1P/P4PP1/3QR1K1 w - - 1 0
+Henry Grob vs MIguel Najdorf, Zuerich, 1948
+Rxd5 Qxd5 Re8+ Kh7 Qxd5
+
+6k1/1p2pRb1/p1n1P1Q1/2p1q3/2P3P1/1P1r4/P5K1/8 w - - 1 0
+Henry Grob vs Jose Sanz Aguado, Madrid, 1951
+Rf8+ Kxf8 Qf7#
+
+r3r1k1/pp3ppp/8/2pPn1q1/3Q2b1/2B3N1/P4PPP/4RRK1 w - c6 1 0
+Henry Grob vs Rainer Weisshaupt, Switzerland, 1960
+Rxe5
+
+4rrk1/2pbq1p1/p1nb2p1/1p1n2N1/2Pp1P2/1P1P2N1/P2B1K2/R2Q3R w - - 1 0
+Henry Grob vs M Steinbrucher, corr., 1970
+Rh8+ Kxh8 Qh1+ Kg8 Qh7#
+
+8/5Qpk/4p3/p1R4p/8/7P/Pr2qPP1/6K1 b - - 0 1
+Carlos Guimard vs Henry Grob, Zuerich, 1950
+...Qd1+ Kh2 Qd6+ f4 Qxc5
+
+1r3k2/p2rbpp1/3np1p1/4B3/NP6/P5P1/5P1P/2RR2K1 w - - 1 0
+Tigran Nalbandian vs Johan Eriksson, Hallsberg, 1993
+Rc6
+
+r1bq2k1/pp3ppp/2pb4/3n3r/8/5NP1/PPQ1PPBP/R1BR2K1 w - - 1 0
+Tigran Nalbandian vs Ernesto Ma, Yerevan, 1996
+e4 Nb4 Qd2
+
+6rk/5Rrp/2p2Q2/pp1q3P/4p1P1/PP6/5PBK/8 w - - 1 0
+Tigran Nalbandian vs Vladimir Kosyrev, Moscow, 1998
+Rxg7 Rxg7 h6
+
+r5k1/3nq2p/p5pQ/Pp5R/8/2B3P1/P3r2P/5RK1 w - - 1 0
+Aleksandr Poluljahov vs S Nev, Belorechensk, 1988
+Qxg6+ hxg6 Rh8#
+
+6r1/1b3p1k/1q1ppQpr/7P/1p2P3/1PN2B1R/P7/6RK b - - 0 1
+Denis Lopushnoy vs Aleksandr Poluljahov, Orel, 1997
+...Qxg1+ Kxg1 gxh5+ Kh2 Rxf6
+
+2b3k1/4rrpp/p2p4/2pP2RQ/1pP1Pp1N/1P3P1P/1q6/6RK w - - 1 0
+Dawid Janowski vs Carl Schlechter, London, 1899
+Qxh7+ Kxh7 Rh5+ Kg8 Ng6 Rf6 Rh8+ Kf7 Rf8#
+
+8/7p/8/2Pk4/1Pr2p2/3K1P2/3B3P/8 w - - 1 0
+Dawid Janowski vs M Didier, Paris, 1900
+Bc3 h6 h3 h5 h4
+
+4R3/kb6/p7/Bp6/4P3/6r1/P3K1P1/8 w - - 1 0
+Dawid Janowski vs Francisco Sterling, Paris, 1900
+Be1 Rxg2+ Bf2+ Rxf2 Kxf2
+
+3k4/7R/2K1p3/3p4/2n4p/2B5/5rPP/8 w - - 1 0
+Dawid Janowski vs Amos Burn, San Sebastian, 1911
+Rh8+ Ke7 Bb4+ Kf6 Rf8+
+
+r1bqr1k1/pp3ppp/8/2bN4/3n1Q2/2N2P2/PPP1B1PP/2KR3R b - - 0 1
+Carl Walbrodt vs Dawid Janowski, Berlin, 1897
+...Qxd5 Nxd5 Nxe2+ Kb1 Nxf4
+
+4r1k1/1p4pp/p2Rq3/2Q5/2P1p3/1P2Nn1P/r5P1/4R2K b - - 0 1
+Isidor Gunsberg vs Dawid Janowski, Hannover, 1902
+...Qxh3+ gxh3 Rh2#
+
+4r3/p2P2kp/5p2/2q1r1p1/6R1/1Q5P/P5P1/3R3K b - - 0 1
+Julius Perlis vs Dawid Janowski, Ostend, 1906
+...Re1+ Rxe1 Rxe1+ Kh2 Qg1+ Kg3 Re3+
+
+8/5pk1/B6p/5p2/Q2n4/P5P1/3q3P/5K2 b - - 0 1
+Frank Marshall vs Dawid Janowski, Carlsbad, 1907
+...Nc2 Qe8 Ne3+
+
+5r1k/p2rqBp1/1p4Pp/2pP4/P1P1b1pQ/B3P3/6P1/4R1K1 w - - 1 0
+Mikhail Yudovich vs Vladimir Zagorovsky, corr., 1972
+Qxh6+ gxh6 Bb2+ Qf6 Bxf6+
+
+2r5/1b1k1prp/p7/1p1p4/5N1P/2nBRP2/P1PK4/7R w - - 1 0
+Tatev Abrahamyan vs Paul Iinuma, Philadelphia, 2006
+Bf5+
+
+r5k1/5rpp/p1q5/2p1p1b1/2Q5/2N5/PPP2P1R/1K5R w - - 1 0
+Tatev Abrahamyan vs Aleksandra Lach, Warsaw, 2011
+Rxh7 Bh6 R1xh6 Qxh6 Rxh6
+
+q4r2/2pR3p/2b3k1/6p1/1p2p3/1B4QP/2P2PP1/6K1 w - - 1 0
+Tatev Abrahamyan vs Sophie Milliet, Tromsoe, 2014
+Rg7+ Kxg7 Qxg5+ Kh8 Qe5+ Rf6 Qxf6#
+
+6rk/p7/5n1P/2Q1p1q1/7r/P4P2/4BK2/6RR b - - 0 1
+Dereque Kelley vs Tatev Abrahamyan, Las Vegas, 2013
+...Rh2+ Ke1 Qh4+
+
+3r4/ppp1Rrk1/5q1p/5pp1/8/2Q3PP/PP4PK/5R2 w - - 1 0
+Radoslaw Jedynak vs Tomasz Kubit, Krakow, 2005
+Rxf5
+
+1k1r1bnr/1ppq1bpp/p4p2/3p4/Qn1P2P1/P1N1B2P/1PPN1PB1/2KR3R b - - 0 1
+Pawel Stoma vs Radoslaw Jedynak, Straszetin, 1999
+...Na2+ Kb1 Nxc3+
+
+3q4/1p2n1k1/3p2p1/p3prN1/4Np2/Pb1P2P1/1PrQPPBP/5RK1 w - - 1 0
+Carissa Yip vs Martha Samadashvili, Al-Ain, 2013
+Qxc2 Bxc2 Ne6+
+
+1r3r2/Q2n1pkp/3p2p1/3Pp3/1q2P2B/1nR2P2/2R1B1PP/7K b - - 0 1
+Anna Ushenina vs Carissa Yip, Astana, 2019
+...Nd4 Qxd7 Qxc3 Rxc3 Rb1+
+
+2q1r1k1/pp1b2b1/7p/3P1p2/n2np1p1/B5P1/PP3PBP/2RQNRK1 b - - 0 1
+Emily Nguyen vs Carissa Yip, Saint Louis, 2019
+...Qxc1 Qxc1 Ne2+
+
+rn1q1rk1/p1ppbp2/1p2pBp1/6N1/1P6/P2BP3/2PP1P1P/RN1QK2b w Q - 1 0
+Konstantin Chernyshov vs Andrzej Lesiak, URS, 1969
+Qh5 gxh5 Bh7#
+
+r2q1r2/ppk5/4bp1p/3p4/1Q6/3B4/PP4PP/5R1K w - - 1 0
+Konstantin Chernyshov vs Pavel Cech, Litomysl, 1996
+Rc1+ Kb8 Qf4+ Qd6 Qxd6#
+
+r2r2k1/pR3p1p/6p1/2n5/q7/P6P/3B1PP1/Q4RK1 w - - 1 0
+Konstantin Chernyshov vs Maxim Turov, Decin, 1998
+Qf6 Nxb7 Bc3 Kf8 Re1
+
+rnb1r3/pp4k1/1np4p/3Pq3/8/1Q2B1P1/PP1KN1B1/R6R b - - 0 1
+Albert Becker vs Manuel Golmayo De La Torriente, Hague, 1928
+...Qxe3+ Qxe3 Nc4+
+
+2r1r2k/1b3ppp/pqN1pn2/1p6/PQ6/2R1PB2/1P3PPP/5RK1 w - - 1 0
+Ivan Sokolov vs Bernard Spycher, Groningen, 1986
+a5 Qc7 Na7
+
+3k2r1/1b1q4/p4p2/2B1pp1Q/Pp3Pp1/8/1PR3PP/7K w - - 1 0
+Ivan Sokolov vs Jeroen Piket, Dordrecht, 2002
+Bb6+
+
+5r1k/5Pp1/7p/pn1p4/6N1/P7/6PP/5R1K w - - 1 0
+Lajos Steiner vs Andor Lilienthal, Budapest, 1931
+Ne5
+
+7k/4R3/5P1p/6p1/2pr4/6P1/7P/6K1 w - - 1 0
+Lajos Steiner vs Asmundur Asgeirsson, Folkestone, 1933
+Re8+ Kh7 f7
+
+8/1bq1k1P1/p3pp2/1p5p/8/P4P2/1P1Q1KP1/1B1r4 w - - 1 0
+Lajos Steiner vs Trajan Ichim, Munich, 1936
+Qb4+
+
+3r2k1/p2Q1ppp/4P3/1p1N4/3bPBn1/8/P4qPP/3R1R1K b - - 0 1
+Jozsef Barta vs Lajos Steiner, Brno, 1937
+...Qg1+
+
+6k1/p5p1/2q1r3/8/2P5/5P2/PB4PP/3Q3K b - - 0 1
+Vladimir Liberzon vs Alexander Zaitsev, Moscow, 1969
+...Qd7 Qc1 Rd6
+
+r1b1k2r/1p2qpp1/p6p/8/4Bp2/3Q4/PPP3PP/3R1RK1 w kq - 1 0
+Peter Svidler vs Evgeny Bareev, Wijk aan Zee, 2004
+Bxb7
+
+3r1b2/p4pk1/1np3pp/2q1p3/3rP3/P2B2PP/1PQ1NPK1/3RR3 b - - 0 1
+Jan Timman vs Peter Svidler, Wijk aan Zee, 1999
+...Rxd3
+
+2rr4/2q2pkp/4pb2/p4p2/Pp3P1P/1P1B2PR/1P3Q2/1K1R4 b - - 0 1
+Vladimir Baklan vs Peter Svidler, Brussels, 2000
+...Rxd3 Rxd3 Qc1+ Ka2 Rc2
+
+2k5/pp3ppp/2p4r/4P2q/1bPP3Q/6P1/PB5P/5RK1 b - - 0 1
+Etienne Bacrot vs Peter Svidler, New Delhi, 2000
+...Qe2 Rf2 Qe1+ Rf1 Qe3+
+
+2r1r1k1/1p3pbp/6p1/p5B1/P1qP4/3Q4/5PPP/R2R2K1 b - - 0 1
+Levon Aronian vs Peter Svidler, Moscow, 2006
+...Re1+ Rxe1 Qxd3
+
+4qrn1/p1Rr3k/1p1p2pp/3P4/4N3/2Q5/P4PP1/3R2K1 w - - 1 0
+Erno Gereben vs Pal Benko, Budapest, 1951
+Ng5+ hxg5 Qh3+
+
+4r1k1/3b2p1/1pnq1p1p/p1pP4/2P1Qp2/P1B4P/1P3PP1/4RBK1 w - - 1 0
+Erno Gereben vs Eugenio Szabados, Budapest, 1951
+Qxe8+ Bxe8 Rxe8+ Ke7 Re6 Qd7 Rxc6
+
+4rrk1/pnpq1ppp/1p6/2bnp1N1/8/P1NP4/1PPBQPPP/4RRK1 w - - 1 0
+Erno Gereben vs Bogdan Sliwa, Sopot, 1951
+Qe4 Nf6 Qxb7
+
+6k1/4Rr1p/1pr1b2P/p4p2/4p1P1/8/P4PBK/3R4 w - - 1 0
+Erno Gereben vs Ulrich Eggenberger, Arlesheim, 1961
+Rd8+ Rf8 Rg7+ Kh8 Rxf8+
+
+8/pp2rqkp/2npR3/3Q4/1PB5/8/P5PP/7K w - - 1 0
+Sabrina Vega Gutierrez vs Camille De Seroux, Antalya, 2019
+Qg5+ Kf8 Rxe7
+
+5k2/8/pR3Np1/1p3bP1/1n6/1B6/1P3P1K/2r5 w - - 1 0
+Ketevan Arakhamia-Grant vs Anna Styazhkina, Antalya, 2019
+Rb7
+
+r7/p2b2kr/1p1p4/2qPp3/PRP1NpP1/8/3Q2PN/R4B1K b - - 0 1
+Denise Trippold vs Sophie Milliet, Antalya, 2019
+...Rxh2+ Kxh2 Rh8#
+
+1r2kb1r/1p3ppp/p3b3/P2qp1B1/2N1n3/8/1PP1QPPP/3RKB1R b Kk - 0 1
+Marina Brunello vs Olga Girya, Antalya, 2019
+...Qxc4 Qxc4 Bxc4 Bxc4 Nxg5
+
+r5k1/6pp/2N1qp2/1PP5/3Qp3/2R3PP/5P1K/r7 b - - 0 1
+Black mates in 5.<br>Svetlana Petrenko vs Fiona Sieber, Antalya, 2019
+...Rh1+ Kxh1 Qxh3+ Kg1 Ra1+
+
+3br1k1/1N4p1/p1Q2n2/1p1q4/4B3/2PP3P/3BKP2/8 w - - 1 0
+Ramon Mateo vs Dario Alzate, Lucerne, 1982
+Qxe8+ Nxe8 Bxd5+
+
+1r2kr2/7p/3P1RpP/p2Bp3/4P3/2p1B3/2P5/2K2b2 w - - 1 0
+Ramon Mateo vs Jaco Nelson, San Sebastian, 1999
+Bc6+ Kd8 Rxf8#
+
+1k2rb2/ppp2p1p/5np1/q7/8/2P1B2P/PPB2PP1/4RQK1 w - - 1 0
+Ramon Mateo vs Roberto Griffa, Genoa, 2004
+Bd4
+
+1r2r1k1/1p2ppqp/p2pb1p1/2nN4/2P5/PP2R1P1/3QPPBP/3R2K1 w - - 1 0
+Ramon Mateo vs Joseph Ryan, Andratx, 2007
+Nxe7+ Rxe7 Qxd6
+
+5r1k/pb3Pp1/1p4np/6q1/3r4/P1N4Q/BP3PPP/R4RK1 b - - 0 1
+Hans-Georg Kleinhenz vs Ramon Mateo, Biel, 2000
+...Rh4 Qg3 Rg4
+
+3r2k1/5ppp/1q2p3/p1b1P3/P4P2/1bNB2Q1/1P4PP/2R4K b - - 0 1
+Juan Paredes Sanchez vs Ramon Mateo, Andorra, 2002
+...Be3
+
+6k1/6p1/8/R4n1P/2r2B2/p5P1/1r2R3/5K2 b - - 0 1
+Veselin Georgiev vs Ramon Mateo, Bled, 2002
+...Rxf4+ gxf4 Ng3+
+
+r5rk/pp2R2p/7B/5b1p/2Bp4/8/P5P1/4K3 w - - 1 0
+Alexandr Predke vs Boris Ofitserian, Sochi, 2019
+Bf4 Rg7 Be5
+
+2B3k1/5p1p/6p1/4n3/8/p3P1Pb/1bQ2P2/6K1 b - - 0 1
+Boris Ofitserian vs Rail Makhmutov, Sochi, 2019
+...Nf3+ Kh1 Bg2+ Kxg2 Ne1+ Kh2 Nxc2
+
+8/3r1kp1/Q3p1p1/1p2P1p1/8/3q1P2/PP4PP/K1R5 b - - 0 1
+Daniil Golikov vs Pavel Toropov, Sochi, 2019
+...Qc2 Rb1 Rd1
+
+6rk/p5p1/3R3p/2p3q1/2P1b3/1PB3p1/P2Q3P/6K1 w - - 1 0
+Evgenija Ovod vs Dinara Dordzhieva, Sochi, 2019
+Rxh6+ Qxh6 Qxh6+
+
+5k2/4rp2/3qb2p/3p1Bp1/3N4/4P2P/1Q3PP1/6K1 w - - 1 0
+Marina Guseva vs Zhanna Shendrik, Sochi, 2019
+Nb5
+
+r1r3k1/1p1b1ppp/8/BnP1p3/4P3/PN3P2/3K2PP/2R4R b - - 0 1
+Thomas Xuan vs  Zong-Yuan Zhao, Sydney, 2015
+...Be6
+
+4r1k1/2pb2p1/5qP1/P2p1p1Q/2p1r3/7P/5BR1/R5K1 w - - 1 0
+Endre Steiner vs Miklos Szigeti, Budapest, 1931
+Qh7+ Kf8 Bc5+
+
+r2qk2r/ppp2pbp/2npbnp1/3Np3/2PP4/4P1P1/PP3PBP/R1BQK1NR w KQkq - 1 0
+Eugene Meyer vs T Furtado, Pasadena, 1983
+Nxf6+ Qxf6 d5
+
+r6k/p1pb2bp/1p1p2q1/3Ppr2/2P1Np1n/5B2/PP1B1PPP/3QR1RK w - - 1 0
+Eugene Meyer vs Cyrus Lakdawala, Pasadena, 1983
+Bg4 Rf7 Bh5
+
+2b3k1/1p5p/RPPp1r2/1N1Pp2n/1B2P1p1/5pPq/6nP/1Q3NRK b - - 0 1
+Helgi Olafsson vs Eugene Meyer, Lone Pine, 1977
+...Nxg3+ Nxg3 Rh6 Nf1 g3
+
+1k1b2rr/1b5p/p2p4/1p6/2q1P3/2N1Q2P/PPP3B1/R1B2RK1 b - - 0 1
+Bernard Zuckerman vs Eugene Meyer, New York, 1979
+...Rxg2+ Kxg2 Rg8+ Kf2 Bh4+
+
+r1bq1rk1/p1p1bppp/1p2pn2/6B1/3P4/3B1N2/PPP1QPPP/R3K2R w KQ - 1 0
+Cyrus Lakdawala vs Mike Nietman, USA, 1987
+Bxf6 Bxf6 Qe4
+
+200
+
+2rq1rk1/pp2bppp/2n1p3/3NP3/3n4/3QBB1P/PP3PP1/2R2RK1 w - - 1 0
+Cyrus Lakdawala vs Steve Fairbairn, Las Vegas, 1995
+Nxe7+ Qxe7 Bxd4
+
+r3n1k1/5pbp/6p1/pQ1P1q2/1p1p1B2/5B1P/PP3PP1/2R3K1 w - - 1 0
+Cyrus Lakdawala vs Adrian Keatinge-Clay, San Francisco, 2002
+Bb8 Nf6 Qb7
+
+6k1/p2b1r1p/5p1B/q2P3P/Pn1p4/1Q6/4KPP1/5B2 w - - 1 0
+Ulf Andersson vs Anders Backlund, Denmark, 1992
+Qg3+ Kh8 Qb8+
+
+r3r3/1pp3kp/2bpnpp1/p2B4/2PP4/PPN3P1/5P1P/1R1R2K1 w - - 1 0
+Ulf Andersson vs Ramon Spitzer Isbert, Sanxenxo, 2003
+Bxe6 Rxe6 d5
+
+2r5/4p2R/p4k2/1p4p1/3p1rP1/1P3PK1/P7/7R w - - 1 0
+Ulf Andersson vs Bart Von Meijenfeldt, Utrecht, 2013
+R1h6+ Ke5 Rxe7+ Kd5 Rg7
+
+4rrk1/1p1n2np/p2p4/2pP4/P1P3P1/2P4Q/2q3B1/2B1RRK1 b - - 0 1
+Jan Smejkal vs Ulf Andersson, Prague, 1970
+...Rxe1 Rxe1 Qf2+ Kh2 Qxe1
+
+3rr1k1/1Rp2ppb/2n4p/8/p3p1P1/4Q2P/PPq1PPB1/1N2R1K1 b - - 0 1
+Fernando Visier Segovia vs Ulf Andersson, Las Palmas, 1972
+Rd1 Rxd1 Qxd1+ Kh2 Qxb1
+
+b1r5/5k1p/p2p1np1/Np3p2/1P3P2/P2P2P1/2r1N2P/2R1R1K1 b - - 0 1
+Joaquin Diaz vs Ulf Andersson, Cienfuegos, 1975
+...Rxe2
+
+2rrn1k1/1q2bppp/pp2N3/2p1n1P1/8/1QN1BP2/PP1RP2P/3R2K1 b - - 0 1
+Jesus Hernandez vs Ulf Andersson, Cienfuegos, 1975
+...Rxd2 Rxd2 c4 Qc2 fxe6
+
+2r5/1b3pk1/pqrpp1p1/4P1N1/1p2Pn1P/3B4/PPPQ4/1NKR2R1 b - - 0 1
+Guillermo Estevez vs Ulf Andersson, Cienfuegos, 1977
+...Nxd3+ Qxd3 Qe3+
+
+8/kb3p2/1bq1p3/4P3/2N2P2/1p4Q1/1P2B3/1K6 b - - 0 1
+Dragoljub Velimirovic vs Ulf Andersson, Bar, 1997
+...Qh1+
+
+6k1/4pp1p/3p2p1/8/2PQ3P/1P4P1/r3qP2/R5K1 b - - 0 1
+Christian Srienz vs Ulf Andersson, Bad Wiessee, 2011
+...e5 Rxa2 Qe1+
+
+1r4k1/p2n1pp1/2b1p2p/2p5/2P5/P2RPNP1/4BP1P/6K1 b - - 0 1
+Alex Vuilleumier vs Ulf Andersson, Geneva, 2012
+...Bxf3 Bxf3 Ne5
+
+2r1n1k1/1bq2pp1/p3p2p/4n3/1P1R1Q2/2N2N1P/1P3PP1/1B4K1 b - - 0 1
+Johannes Engel vs Ulf Andersson, Bad Wiessee, 2016
+...Nxf3+ gxf3 e5
+
+r4rk1/ppp2pbp/2np2p1/7n/2BNq1b1/P1P1BN2/1P3PPP/R2QR1K1 w - - 1 0
+John Peters vs Robert Sulman, Lone Pine, 1981
+Bg5 Bxf3 gxf3
+
+r1b2rk1/pp4p1/2n1p1pp/3pPqN1/2pP4/P1P1B3/2P1QPPP/R3K2R w KQ - 1 0
+John Peters vs Tatev  Abrahamyan, Los Angeles, 2003
+g4
+
+1rr2bk1/5ppp/3p2n1/N2Pp1Bn/QP2P3/5qPP/5P2/R3R1K1 w - - 1 0
+John Peters vs Ilan Benjamin, Los Angeles, 2005
+Re3
+
+7r/1b1rkp2/pbnppq2/1p5p/5P1Q/1NP2BN1/PP4PP/3R1R1K w - - 1 0
+John Peters vs Teddy Coleman, Los Angeles, 2011
+Nf5+ exf5 Rfe1+ Ne5 Rxe5+ dxe5 Rxd7+
+
+5r2/ppkn1B1p/2p2n2/6B1/8/5RP1/PP2K1P1/8 w - - 1 0
+Didier Collas vs Pablo Almagro Llanas, Lisbon, 2001
+Bxf6 Rxf7 Bd8+
+
+2k4r/2p3p1/5pn1/1RN3p1/2PbP1P1/3QB2P/2q2PK1/8 b - - 0 1
+Thomas Dionisi vs Didier Collas, Saint-Quentin, 2015
+...Nf4+
+
+3rr2k/2q3pp/3b1p2/p4P2/1p2nPRQ/5R1P/BPP1p1P1/4B1K1 w - - 1 0
+Silvia Collas vs Fiona Steil-Antoni, Drancy, 2016
+Qxh7+ Kxh7 Rh4#
+
+r4k1r/pp3ppp/2b1p3/3qP3/8/2PB1P2/P5PP/R2Q1RK1 b - - 0 1
+Marion Joanovits vs Silvia Collas, France, 2004
+...Rd8 Bc2 Qc5+
+
+r3k2r/1bqp1ppp/p1n1p3/1pb5/4P1n1/P1NB1N1P/1PP1QPP1/R1B2RK1 b kq - 0 1
+Josep Segura Riba vs Silvia Collas, Salou, 2005
+...Nd4
+
+r1b2rk1/1p1nbppp/p3p3/2N1P3/1q1B4/5B2/P1P3PP/1R1Q1RK1 b - - 0 1
+Francesc Farran Martos vs Silvia Collas, Salou, 2005
+...Qxd4+ Qxd4 Bxc5
+
+2brr1k1/pp1n1pbp/1np3p1/q1p1P3/8/2N1B1PP/PP1N1P2/1R1QRBK1 w - - 1 0
+Robert Kempinski vs Marek Vokac, Ceske Budejovice, 1992
+Nb3 Qb4 a3
+
+3r1rk1/pb2b1pp/1pn1pn2/8/P2P4/5N2/Bq1B1PPP/R2QR1K1 w - - 1 0
+Robert Kempinski vs Aleksander Hnydiuk, Plock, 2000
+Bxe6+ Kh8 Ra2
+
+8/p3qp1k/4pp2/1r5p/4P2P/5QR1/5PP1/6K1 w - - 1 0
+Robert Kempinski vs Piotr Dobrowolski, Dzwirzyno, 2004
+e5 Rxe5 Qa8 Rg5 hxg5
+
+2bR1rk1/p6p/p5p1/8/N5P1/3R3P/1P3r2/6K1 w - - 1 0
+Robert Kempinski vs Bogdan Grabarczyk, Opole, 2007
+Rxc8
+
+r1b1R3/1p1n1q1k/2p3pp/p7/P2p4/3Q1N2/1PP2PPP/6K1 w - - 1 0
+Hannes Stefansson vs Hilmar Karlsson, Reykjavik, 1986
+Ng5+ hxg5 Qh3+ Kg7 Qh8#
+
+2r5/3kbp1p/b3p1p1/1N4P1/P2B1P2/1K6/7P/3R4 w - - 1 0
+Hannes Stefansson vs Rodrigo Vasquez, Innsbruck, 1987
+Be5+ Ke8 Nc7+
+
+3rbrk1/1p3pp1/p3qn1p/8/2N5/2PB4/PP2Q1PP/3R1R1K w - - 1 0
+Hannes Stefansson vs Theodoros Haritakis, Komotini, 1993
+Qxe6 fxe6 Bh7+
+
+1r1rn1k1/p4pp1/1p5p/3NR3/5P2/5B1P/PPb3P1/5RK1 w - - 1 0
+Hannes Stefansson vs Laurent Bruneau, Oviedo, 1993
+Ne7+ Kf8 Nc6

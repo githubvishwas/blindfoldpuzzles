@@ -1,0 +1,38 @@
+
+
+.board {
+    width: 350px;
+    margin: auto
+}
+
+#correct {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    /*395 x 512*/
+    margin-top: -256px;
+    margin-left: -197.5px;
+    z-index: 999;
+    display: none;
+}
+
+#wrong {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    /*395 x 512*/
+    margin-top: -256px;
+    margin-left: -197.5px;
+    z-index: 999;
+    display: none;
+}
+#score {
+    justify-content: left;
+    align-items: left;
+    width: 100%;
+    font-size: 2em;
+    color: #f2a365;
+}
+
+
+ 
