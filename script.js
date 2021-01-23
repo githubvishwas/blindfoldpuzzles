@@ -301,7 +301,7 @@ function MakeMove() {
 		ClearMove()
 		return
 	}
-	
+	game.undo()
 	str = movelist[currmvindex]
 	var source = str[0] + str[1]
 	var target = str[2] + str[3]
