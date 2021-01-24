@@ -454,10 +454,7 @@ function getIndexOfId(id) {
 	return -1
 }
 function setPos() {
-	if (!isTouchDevice()) {
-		var c = document.getElementById("chesskeyboard");
-		c.style.display = "none"
-	}
+	startAudio.play();
 	params = getUrlVars();
 	index = -1
 	if("id" in params) {
@@ -560,7 +557,14 @@ var input = document.getElementById("move");
       }
     });
 
-startAudio.play();
+
+if (!isTouchDevice()) {
+	var c = document.getElementById("chesskeyboard");
+	c.style.display = "none"
+} else {
+	var c = document.getElementById("chesskeyboard");
+	c.style.display = "block"
+}
 setPos()
 
 
