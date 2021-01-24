@@ -454,7 +454,13 @@ function getIndexOfId(id) {
 	return -1
 }
 function setPos() {
-	startAudio.play();
+	if (!isTouchDevice()) {
+		var c = document.getElementById("chesskeyboard");
+		c.style.display = "none"
+	} else {
+		var c = document.getElementById("chesskeyboard");
+		c.style.display = "none"
+	}
 	params = getUrlVars();
 	index = -1
 	if("id" in params) {
@@ -557,14 +563,7 @@ var input = document.getElementById("move");
       }
     });
 
-
-if (!isTouchDevice()) {
-	var c = document.getElementById("chesskeyboard");
-	c.style.display = "none"
-} else {
-	var c = document.getElementById("chesskeyboard");
-	c.style.display = "block"
-}
+startAudio.play();
 setPos()
 
 
